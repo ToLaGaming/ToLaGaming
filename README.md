@@ -1,26 +1,36 @@
-# ToLa-gaming
+# Hi there, I'm ToLaGaming! 👋
 
-Welcome to the official GitHub profile of ToLa-gaming! Here you can find the source code and projects for various games I’m working on.
+Welcome to my GitHub profile! I'm passionate about software development, open source, and gaming. Here's a bit about me:
 
-## About Me
+## 🔧 Technologies & Tools
 
-I am an indie game developer focused on creating games in various engines, including LÖVE2D, GDevelop, Pygame, Godot, and Babylon.js. I enjoy experimenting with different genres and mechanics. And i like to play around with html and css
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code)
+![Love2d](https://love2d.org)
+![Lua](https://www.lua.org)
 
-### Current Projects
+## 🚀 Projects
 
-- **Lost Below** (GDevelop) – A platformer with random generation where you play as a miner exploring the underground.
-- **Chickengine** - A webgl powered Javascript game engine
+Here are some of the projects I've been working on:
 
-## Skills & Tools
+- [**Project Name**](https://github.com/ToLaGaming/project-repo): Brief description of what this project does.
+- [**Another Project**](https://github.com/ToLaGaming/another-repo): Brief description of this other project.
+- [**Cool Project**](https://github.com/ToLaGaming/cool-repo): Brief description of this cool project.
 
-- **Engines**: LÖVE2D, GDevelop, Godot, Pygame, Babylon.js
-- **Languages**: Lua, Python, GDScript, JavaScript
-- **Other**: Visual Studio Code, Git, GitHub
+## 🌱 Currently Learning
 
-## Get Involved
+- [Web development]
+- [game development]
 
-Feel free to explore my repositories, contribute, or just follow along as I continue working on these exciting projects.
+## 📫 How to Reach Me
 
-## Contact
+- idk
 
-- **Itch.io**: [ToLa-gaming](https://toLa-gaming.itch.io/)
+
+## 💬 Let's Connect!
+
+Feel free to reach out if you want to collaborate on a project, have a chat about technology, or just say hi!
+
+![Profile Views](https://komarev.com/ghpvc/?username=ToLaGaming&color=blue&style=flat)
